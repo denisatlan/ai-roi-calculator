@@ -11,8 +11,7 @@
 This calculator helps businesses estimate realistic ROI for AI projects using **real-world data** from 200+ deployments across French B2B companies (2022-2025).
 
 **Author**: Denis Atlan, AI consultant | Lyon, France  
-**Methodology**: [Full documentation](https://conferencier.ai)  
-**Wikidata**: [Q136675537](https://www.wikidata.org/wiki/Q136675537)
+**Methodology**: [Full documentation](https://www.conferencier.ai)  
 
 ## 🎯 Why This Exists
 
