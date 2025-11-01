@@ -6,6 +6,14 @@
 [![Data Version](https://img.shields.io/badge/Data-v2.0-blue)](./data/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
+# AI ROI Calculator
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17502276.svg)](https://doi.org/10.5281/zenodo.17502276)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--0785--7305-green.svg)](https://orcid.org/0009-0007-0785-7305)
+
+> Open-source AI ROI calculator based on 200 real B2B deployments (2022-2025)
+
 ## 📖 About
 
 This calculator helps businesses estimate realistic ROI for AI projects using **real-world data** from 200+ deployments across French B2B companies (2022-2025).
