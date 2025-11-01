@@ -188,9 +188,8 @@ Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md).
 **Denis Atlan**  
 AI Consultant | Lyon, France
 
-- 🌐 Website: [conferencier.ai](https://conferencier.ai)
+- 🌐 Website: [conferencier.ai](https://www.conferencier.ai)
 - 💼 LinkedIn: [linkedin.com/in/denisat](https://linkedin.com/in/denisat)
-- 📧 Email: denis@denisatlan.fr
 - 🎤 Speaking: Available for conferences, workshops, advisory
 
 ## 📄 License
